@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc1864d0ecb9c3c418cfcbf3794e54a5, type: 3}
+  m_Name: DefaultNoise
+  m_EditorClassIdentifier: 
+  autoUpdate: 1
+  noiseScale: 0.5
+  octaves: 50
+  persistance: 0.383
+  valueNoise: 0.0915218
+  perlinNoise: 0.9084782
+  simplexeNoise: 0
+  lacunarity: 2.41
+  seed: 6
+  offset: {x: 0, y: 0}
