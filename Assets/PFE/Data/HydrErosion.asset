@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a542cf007a08b1e4883990ab99b29e86, type: 3}
+  m_Name: HydrErosion
+  m_EditorClassIdentifier: 
+  autoUpdate: 0
+  thermalcycle: 0
+  thermalslopeLimit: 0
+  termalStrength: 0
+  fastcycle: 0
+  fastslopeLimit: 0
+  fastStrength: 0
+  hydraulicCycle: 70
+  amountRain: 0.002
+  solubility: 0.001
+  evaporation: 0.95
