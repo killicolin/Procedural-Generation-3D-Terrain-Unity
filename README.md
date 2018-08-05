@@ -20,7 +20,9 @@ Hydraulic Erosion:
 ![Hydraulic Erosion](Ressources/HErosion.png)
 
 # Author 
-Killian Colin (me)
+
+Killian Colin (me),
+
 Quentin Garcia
 
 # Main source use:
